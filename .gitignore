@@ -1,0 +1,6 @@
+1 *.pyc
+2 *.sqlite3
+3 .idea
+4 __pycache__
+5 *.log
+6 .venv
